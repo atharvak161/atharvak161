@@ -19,7 +19,7 @@ Current  : Technical Support Analyst @ Eurostop Ltd.
 Degree   : MSc Applied Cyber Security — Queen's University Belfast
            (GCHQ Accredited Programme)
 Focus    : Offensive Security → Red Teaming
-Labs     : TryHackMe [Jr Pentest Path ] | HackTheBox [Active]
+Labs     : TryHackMe [Jr Pentest Path] | HackTheBox [Active]
 ```
 
 ---
