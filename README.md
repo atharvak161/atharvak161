@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=whoami+%3E+Atharva+Kulkarni;Junior+Penetration+Tester+%7C+CEH+Certified;MSc+Applied+Cyber+Security+%7C+GCHQ+Accredited;Targeting+Red+Team+%7C+Offensive+Security)](https://git.io/typing-svg)
 
+**🌐 Portfolio: [atharvak161.github.io](https://atharvak161.github.io)**
+
 </div>
 
 ---
@@ -47,7 +49,7 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 | 🛡️ | **Certified Ethical Hacker — CEH V12** | `ECC9421760853` |
 | 🔒 | **Fortinet NSE Level 1** | `PggZRhVh2p` |
 | 🔒 | **Fortinet NSE Level 2** | `uTMYfCWHCd` |
-| 🎯 | **TryHackMe — Junior Penetration Testing Path** | Completed |
+| 🎯 | **TryHackMe — Junior Penetration Testing Path** | Ongoing |
 
 ---
 
