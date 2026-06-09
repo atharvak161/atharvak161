@@ -104,6 +104,17 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 └─$ ls -la projects/
 ```
 
+### 🔎 JobScope — UK Job Aggregator
+> *Full-Stack Project — 2026 · [github.com/atharvak161/jobscope](https://github.com/atharvak161/jobscope)*
+
+UK job aggregator that filters listings by **visa sponsorship status** and **security clearance requirements** — built for candidates who need to know eligibility before applying. Resume parsing is powered by **Claude AI** for automated candidate-to-role matching.
+
+`Next.js 16` `TypeScript` `PostgreSQL` `Prisma 7` `Claude AI`
+
+**Security highlight:** IDOR, SSRF, and prompt-injection defences built in from the ground up — engineered with an offensive-security mindset.
+
+---
+
 ### 🔬 ML Attacks on Physical Unclonable Functions
 > *MSc Dissertation — Queen's University Belfast, 2023*
 
