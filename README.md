@@ -63,10 +63,14 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-00FF41?style=flat-square&logoColor=black)
 ![Ethical Hacking](https://img.shields.io/badge/CEH_Certified-00FF41?style=flat-square&logoColor=black)
 ![Web App Security](https://img.shields.io/badge/Web_App_Security-00FF41?style=flat-square&logoColor=black)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-00FF41?style=flat-square&logoColor=black)
+![Active Directory Attacks](https://img.shields.io/badge/Active_Directory_Attacks-00FF41?style=flat-square&logoColor=black)
+![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-00FF41?style=flat-square&logoColor=black)
 ![OSINT](https://img.shields.io/badge/OSINT-00FF41?style=flat-square&logoColor=black)
 ![Red Team](https://img.shields.io/badge/Red_Team_Exercises-00FF41?style=flat-square&logoColor=black)
 ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-00FF41?style=flat-square&logoColor=black)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-00FF41?style=flat-square&logoColor=black)
+![Incident Response](https://img.shields.io/badge/Incident_Response-00FF41?style=flat-square&logoColor=black)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-00FF41?style=flat-square&logoColor=black)
 
 **Networking & Infrastructure**
@@ -77,6 +81,9 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 ![Cisco](https://img.shields.io/badge/Cisco_Infrastructure-0096FF?style=flat-square&logo=cisco&logoColor=white)
 ![Network Enumeration](https://img.shields.io/badge/Network_Enumeration-0096FF?style=flat-square&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS_%2F_IPS-0096FF?style=flat-square&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-0096FF?style=flat-square&logoColor=white)
+![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-0096FF?style=flat-square&logoColor=white)
+![Cyber Essentials](https://img.shields.io/badge/Cyber_Essentials-0096FF?style=flat-square&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune_%2F_Autopilot-0096FF?style=flat-square&logo=microsoft&logoColor=white)
 
 **Tools**
@@ -85,6 +92,7 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 ![Nmap](https://img.shields.io/badge/Nmap-FF6B35?style=flat-square&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B35?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-FF6B35?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus / OpenVAS](https://img.shields.io/badge/Nessus_%2F_OpenVAS-FF6B35?style=flat-square&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-FF6B35?style=flat-square&logo=servicenow&logoColor=white)
 ![Nexthink](https://img.shields.io/badge/Nexthink-FF6B35?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FF6B35?style=flat-square&logo=linux&logoColor=white)
@@ -92,10 +100,12 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 
 **Programming & Data**
 
+![ICMCP](https://img.shields.io/badge/ICMCP-8B5CF6?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-8B5CF6?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-8B5CF6?style=flat-square&logo=powershell&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logoColor=white)
 
 ---
 
@@ -159,6 +169,23 @@ Active competitor across CTF platforms, completing the **Junior Penetration Test
 
 ```bash
 ┌──(atharva㉿portfolio)-[~]
+└─$ ls writeups/
+```
+
+| Room | Platform | Technique |
+|------|----------|-----------|
+| **Flag Vault 2** | TryHackMe | Format string vulnerability (CWE-134) — stack memory leak |
+| **Flag Vault** | TryHackMe | Stack buffer overflow (CWE-121) via gets() |
+| **Capture!** | TryHackMe | Username enumeration + CAPTCHA bypass via Python |
+| **Simple CTF** | TryHackMe | CVE-2019-9053 blind SQLi → root via vim sudo |
+| **Pickle Rick** | TryHackMe | Info disclosure in HTML comments → RCE + sudo escalation |
+
+Full writeups: [atharvak161.github.io](https://atharvak161.github.io/#projects)
+
+---
+
+```bash
+┌──(atharva㉿portfolio)-[~]
 └─$ cat experience.log
 ```
 
@@ -171,6 +198,7 @@ Active competitor across CTF platforms, completing the **Junior Penetration Test
 
 **Notable impact:**
 - ↓ **35%** query resolution time @ Concentrix through structured diagnostic workflows
+- ↓ **80%** escalated tickets @ Concentrix through targeted diagnostic triage
 - ↑ **85%** customer satisfaction ratings through technical precision and communication
 - ↓ **25%** security breaches @ Clariant through hardened laptop configurations and network hardening
 - ↓ **30%** network outage response time via ServiceNow-integrated processes
@@ -194,6 +222,28 @@ Active competitor across CTF platforms, completing the **Junior Penetration Test
 [2019–2022] BSc Computer Science
             Pillai College of Arts, Commerce & Sciences
             Focus: Network Technologies, Routing Protocols, Cisco Infrastructure
+```
+
+---
+
+```bash
+┌──(atharva㉿portfolio)-[~]
+└─$ cat learning.log
+```
+
+```
+Active Focus:
+  → TryHackMe — Offensive Pentesting Path     [ IN PROGRESS ]
+  → HackTheBox — Active Machines               [ ONGOING     ]
+  → OSCP Preparation                           [ TARGET 2026 ]
+
+Certification Roadmap:
+  [✓] CEH V12                          — COMPLETED
+  [●] TryHackMe Jr Pentest Path        — ONGOING
+  [ ] eJPT (eLearnSecurity)            — UPCOMING
+  [ ] TryHackMe PT1                    — UPCOMING
+  [ ] OSCP                             — UPCOMING
+  [ ] CRTO (Red Team Operator)         — LONG-TERM
 ```
 
 ---
