@@ -125,6 +125,17 @@ UK job aggregator that filters listings by **visa sponsorship status** and **sec
 
 ---
 
+### 🔐 cybersec-toolkit — Client-Side Security Toolkit
+> *Client-Side Security Tool — 2026 · [Live Demo](https://atharvak161.github.io/cybersec-toolkit/) · [github.com/atharvak161/cybersec-toolkit](https://github.com/atharvak161/cybersec-toolkit)*
+
+A client-side cybersecurity toolkit — encoding/decoding, hashing, JWT/AES/RSA, CyberChef-style recipe chaining, and OSINT lookups, all running in-browser.
+
+`JavaScript` `Cryptography` `Encoding/Decoding` `OSINT` `Client-Side Security`
+
+**Key outcome:** All crypto, encoding, and recipe-chaining operations execute entirely client-side — no data ever leaves the browser.
+
+---
+
 ### 🔬 ML Attacks on Physical Unclonable Functions
 > *MSc Dissertation — Queen's University Belfast, 2023*
 
