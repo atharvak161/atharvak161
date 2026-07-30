@@ -49,6 +49,7 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 | 🛡️ | **Certified Ethical Hacker — CEH V12** | `ECC9421760853` |
 | 🔒 | **Fortinet NSE Level 1** | `PggZRhVh2p` |
 | 🔒 | **Fortinet NSE Level 2** | `uTMYfCWHCd` |
+| 🛡️ | **TryHackMe — Pre Security (SEC0)** | [Verify ↗](https://www.credly.com/badges/c8062133-aeff-4ab2-bc9f-86c6039210bd/public_url) |
 | 🎯 | **TryHackMe — Junior Penetration Testing Path** | Ongoing |
 
 ---
@@ -125,6 +126,28 @@ UK job aggregator that filters listings by **visa sponsorship status** and **sec
 
 ---
 
+### 📋 Blueprint — Project Management Tool
+> *Full-Stack Project — 2026 · [Live](https://atharvak161.github.io/Blueprint/) · [github.com/atharvak161/Blueprint](https://github.com/atharvak161/Blueprint)*
+
+A project management dashboard for tracking tasks, milestones, and team progress — a single-page app with a clean kanban-style interface.
+
+`React` `Express` `PostgreSQL` `Drizzle` `Full-Stack`
+
+**Key outcome:** Visual task tracking with status columns and milestone progress; deployed via GitHub Actions to GitHub Pages.
+
+---
+
+### 💷 Finance Dashboard — Personal Finance Tracker
+> *Client-Side App — 2026 · [github.com/atharvak161/finance-dashboard](https://github.com/atharvak161/finance-dashboard)*
+
+A comprehensive personal finance tracker for NRI/UK professionals — income, expenses, investments, debts, and goals across **GBP and INR**. Includes ROAI analytics, envelope budgeting, a bill calendar, SMS/CSV transaction import with auto-categorisation, and OLED dark mode.
+
+`JavaScript` `Chart.js` `Client-Side` `Encrypted` `Data Viz`
+
+**Key outcome:** Cross-currency portfolio tracking, privacy mode, and fully client-side/encrypted — data never leaves the device.
+
+---
+
 ### 🔐 cybersec-toolkit — Client-Side Security Toolkit
 > *Client-Side Security Tool — 2026 · [Live Demo](https://atharvak161.github.io/cybersec-toolkit/) · [github.com/atharvak161/cybersec-toolkit](https://github.com/atharvak161/cybersec-toolkit)*
 
@@ -133,6 +156,17 @@ A client-side cybersecurity toolkit — encoding/decoding, hashing, JWT/AES/RSA,
 `JavaScript` `Cryptography` `Encoding/Decoding` `OSINT` `Client-Side Security`
 
 **Key outcome:** All crypto, encoding, and recipe-chaining operations execute entirely client-side — no data ever leaves the browser.
+
+---
+
+### 🗄️ The Vault — Cybersecurity Knowledge Base
+> *Client-Side Knowledge Base — 2026 · [Live](https://atharvak161.github.io/cybersec-vault/) · [github.com/atharvak161/cybersec-vault](https://github.com/atharvak161/cybersec-vault)*
+
+A fast, fully client-side knowledge base for **248 cybersecurity notes** — cloud, GRC, OSCP, and red-team — with an Obsidian-style reader: instant full-text search, a command palette, wiki-style cross-links, an interactive link graph, and backlinks. No backend; nothing leaves the browser.
+
+`JavaScript` `Markdown` `Full-Text Search` `Graph View` `Client-Side`
+
+**Key outcome:** Fully static and self-contained — HTML sanitised with DOMPurify, all assets vendored, zero external calls.
 
 ---
 
@@ -166,6 +200,17 @@ Practical forensic investigation into deleted file recovery on Windows 10 NTFS u
 `Windows Forensics` `MFT Analysis` `Disk Imaging` `CLI Tools` `NTFS`
 
 **Key outcome:** Documented a reproducible methodology for evidence preservation and breach analysis.
+
+---
+
+### 🛡️ Automated Network Intrusion Response System (AIRS)
+> *Research — Queen's University Belfast, 2022*
+
+Research into automated self-defence for enterprise networks — integrating IDS/IPS detection with an **Intrusion Response System (IRS)** that delivers pre-configured active and passive countermeasures to contain attackers and restore system health.
+
+`IDS/IPS` `IRS` `Network Security` `Threat Mitigation` `Anomaly Detection`
+
+**Key outcome:** Classified IRS response models (notification/manual/automatic) and evaluated agent-based architectures (CSM, EMERALD, JiNao, NetSTAT), assessing false-positive/scalability trade-offs.
 
 ---
 
@@ -249,6 +294,7 @@ Active Focus:
   → OSCP Preparation                           [ TARGET 2026 ]
 
 Certification Roadmap:
+  [✓] Pre Security (SEC0)              — COMPLETED
   [✓] CEH V12                          — COMPLETED
   [●] TryHackMe Jr Pentest Path        — ONGOING
   [ ] eJPT (eLearnSecurity)            — UPCOMING
@@ -284,7 +330,7 @@ Certification Roadmap:
 | 📧 Email | [atharvak161@gmail.com](mailto:atharvak161@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/atharva1](https://linkedin.com/in/atharva1) |
 | 🌐 Portfolio | [atharvak161.github.io](https://atharvak161.github.io) |
-| 🎯 TryHackMe | [tryhackme.com/p/atharvak161](https://tryhackme.com) |
+| 🎯 TryHackMe | [tryhackme.com/p/AtharvaK911](https://tryhackme.com/p/AtharvaK911) |
 | 💀 HackTheBox | [hackthebox.com](https://hackthebox.com) |
 
 ---
