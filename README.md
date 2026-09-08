@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=whoami+%3E+Atharva+Kulkarni;Junior+Penetration+Tester+%7C+CEH+Certified;MSc+Applied+Cyber+Security+%7C+GCHQ+Accredited;Targeting+Red+Team+%7C+Offensive+Security)](https://git.io/typing-svg)
 
-**🌐 Portfolio: [atharvak161.github.io](https://atharvak161.github.io)**
+**🌐 Portfolio: [atharvaxsecurity.com](https://atharvaxsecurity.com)**
 
 </div>
 
@@ -127,7 +127,7 @@ UK job aggregator that filters listings by **visa sponsorship status** and **sec
 ---
 
 ### 📋 Blueprint — Project Management Tool
-> *Full-Stack Project — 2026 · [Live](https://atharvak161.github.io/Blueprint/) · [github.com/atharvak161/Blueprint](https://github.com/atharvak161/Blueprint)*
+> *Full-Stack Project — 2026 · [Live](https://atharvaxsecurity.com/Blueprint/) · [github.com/atharvak161/Blueprint](https://github.com/atharvak161/Blueprint)*
 
 A project management dashboard for tracking tasks, milestones, and team progress — a single-page app with a clean kanban-style interface.
 
@@ -149,7 +149,7 @@ A comprehensive personal finance tracker for NRI/UK professionals — income, ex
 ---
 
 ### 🔐 cybersec-toolkit — Client-Side Security Toolkit
-> *Client-Side Security Tool — 2026 · [Live Demo](https://atharvak161.github.io/cybersec-toolkit/) · [github.com/atharvak161/cybersec-toolkit](https://github.com/atharvak161/cybersec-toolkit)*
+> *Client-Side Security Tool — 2026 · [Live Demo](https://atharvaxsecurity.com/cybersec-toolkit/) · [github.com/atharvak161/cybersec-toolkit](https://github.com/atharvak161/cybersec-toolkit)*
 
 A client-side cybersecurity toolkit — encoding/decoding, hashing, JWT/AES/RSA, CyberChef-style recipe chaining, and OSINT lookups, all running in-browser.
 
@@ -160,7 +160,7 @@ A client-side cybersecurity toolkit — encoding/decoding, hashing, JWT/AES/RSA,
 ---
 
 ### 🗄️ The Vault — Cybersecurity Knowledge Base
-> *Client-Side Knowledge Base — 2026 · [Live](https://atharvak161.github.io/cybersec-vault/) · [github.com/atharvak161/cybersec-vault](https://github.com/atharvak161/cybersec-vault)*
+> *Client-Side Knowledge Base — 2026 · [Live](https://atharvaxsecurity.com/cybersec-vault/) · [github.com/atharvak161/cybersec-vault](https://github.com/atharvak161/cybersec-vault)*
 
 A fast, fully client-side knowledge base for **248 cybersecurity notes** — cloud, GRC, OSCP, and red-team — with an Obsidian-style reader: instant full-text search, a command palette, wiki-style cross-links, an interactive link graph, and backlinks. No backend; nothing leaves the browser.
 
@@ -236,7 +236,7 @@ Active competitor across CTF platforms, completing the **Junior Penetration Test
 | **Simple CTF** | TryHackMe | CVE-2019-9053 blind SQLi → root via vim sudo |
 | **Pickle Rick** | TryHackMe | Info disclosure in HTML comments → RCE + sudo escalation |
 
-Full writeups: [atharvak161.github.io](https://atharvak161.github.io/#projects)
+Full writeups: [atharvaxsecurity.com](https://atharvaxsecurity.com/#projects)
 
 ---
 
@@ -329,7 +329,7 @@ Certification Roadmap:
 |----------|------|
 | 📧 Email | [atharvak161@gmail.com](mailto:atharvak161@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/atharva1](https://linkedin.com/in/atharva1) |
-| 🌐 Portfolio | [atharvak161.github.io](https://atharvak161.github.io) |
+| 🌐 Portfolio | [atharvaxsecurity.com](https://atharvaxsecurity.com) |
 | 🎯 TryHackMe | [tryhackme.com/p/AtharvaK911](https://tryhackme.com/p/AtharvaK911) |
 | 💀 HackTheBox | [hackthebox.com](https://hackthebox.com) |
 
