@@ -49,6 +49,7 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 | 🛡️ | **Certified Ethical Hacker — CEH V12** | `ECC9421760853` |
 | 🔒 | **Fortinet NSE Level 1** | `PggZRhVh2p` |
 | 🔒 | **Fortinet NSE Level 2** | `uTMYfCWHCd` |
+| 🛡️ | **TryHackMe — Cyber Security 101 (SEC1)** | [Verify ↗](https://www.credly.com/badges/a10b2144-1101-410d-ba41-e22180d04801/public_url) |
 | 🛡️ | **TryHackMe — Pre Security (SEC0)** | [Verify ↗](https://assets.tryhackme.com/certification-certificate/6a6473ed83b00ef659529027.pdf) |
 | 🎯 | **TryHackMe — Junior Penetration Testing Path** | Ongoing |
 
@@ -295,6 +296,7 @@ Active Focus:
 
 Certification Roadmap:
   [✓] Pre Security (SEC0)              — COMPLETED
+  [✓] Cyber Security 101 (SEC1)        — COMPLETED
   [✓] CEH V12                          — COMPLETED
   [●] TryHackMe Jr Pentest Path        — ONGOING
   [ ] eJPT (eLearnSecurity)            — UPCOMING
