@@ -50,7 +50,7 @@ My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functio
 | 🔒 | **Fortinet NSE Level 1** | `PggZRhVh2p` |
 | 🔒 | **Fortinet NSE Level 2** | `uTMYfCWHCd` |
 | 🛡️ | **TryHackMe — Cyber Security 101 (SEC1)** | [Verify ↗](https://www.credly.com/badges/a10b2144-1101-410d-ba41-e22180d04801/public_url) |
-| 🛡️ | **TryHackMe — Pre Security (SEC0)** | [Verify ↗](https://assets.tryhackme.com/certification-certificate/6a6473ed83b00ef659529027.pdf) |
+| 🛡️ | **TryHackMe — Pre Security (SEC0)** | [Verify ↗](https://www.credly.com/badges/c8062133-aeff-4ab2-bc9f-86c6039210bd/public_url) |
 | 🎯 | **TryHackMe — Junior Penetration Testing Path** | Ongoing |
 
 ---
