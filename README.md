@@ -143,9 +143,9 @@ A project management dashboard for tracking tasks, milestones, and team progress
 
 A comprehensive personal finance tracker for NRI/UK professionals — income, expenses, investments, debts, and goals across **GBP and INR**. Includes ROAI analytics, envelope budgeting, a bill calendar, SMS/CSV transaction import with auto-categorisation, and OLED dark mode.
 
-`JavaScript` `Chart.js` `Client-Side` `Encrypted` `Data Viz`
+`JavaScript` `Chart.js` `Client-Side` `Offline-First` `Data Viz`
 
-**Key outcome:** Cross-currency portfolio tracking, privacy mode, and fully client-side/encrypted — data never leaves the device.
+**Key outcome:** Cross-currency portfolio tracking, privacy mode, and a fully client-side design — your financial data stays in your own browser's storage, with no account and no backend.
 
 ---
 
