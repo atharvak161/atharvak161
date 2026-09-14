@@ -205,7 +205,7 @@ Practical forensic investigation into deleted file recovery on Windows 10 NTFS u
 ---
 
 ### 🛡️ Automated Network Intrusion Response System (AIRS)
-> *Research — Queen's University Belfast, 2022*
+> *Research — Queen's University Belfast, 2023*
 
 Research into automated self-defence for enterprise networks — integrating IDS/IPS detection with an **Intrusion Response System (IRS)** that delivers pre-configured active and passive countermeasures to contain attackers and restore system health.
 
