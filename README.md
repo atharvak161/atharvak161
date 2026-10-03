@@ -31,7 +31,7 @@ Labs     : TryHackMe [Jr Pentest Path] | HackTheBox [Active]
 └─$ cat about.txt
 ```
 
-Security professional bridging the gap between **enterprise IT operations** and **offensive security**. With 4+ years across network operations, identity management, and systems support, I understand how enterprise environments are *built* — which means I know exactly where they *break*.
+Security professional bridging the gap between **enterprise IT operations** and **offensive security**. With 3 years across network operations, identity management, and systems support, I understand how enterprise environments are *built* — which means I know exactly where they *break*.
 
 My MSc dissertation on **Machine Learning Attacks on Physical Unclonable Functions** reflects my ability to research and understand complex threats at the hardware and cryptographic level. Outside the day job, I'm grinding TryHackMe rooms and HackTheBox labs — sharpening manual exploitation, recon, and post-exploitation technique.
 
